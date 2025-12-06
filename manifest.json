@@ -1,0 +1,21 @@
+{
+    "name": "Best Anime Sites 2025",
+    "short_name": "AnimeGuide",
+    "description": "Your Complete Guide to Streaming Anime Online in 2025",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
